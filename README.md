@@ -5,7 +5,7 @@ Built against Phonegap >= 3.3.x.
 
 ## Installation using CLI:
 ```
-$ cordova plugin add https://github.com/AppsFlyerSDK/PhoneGap.git
+$ cordova plugin add https://github.com/joinhaven/AppsFlyerCordovaPlugin.git
 ```
 Then reference `appsflyer.js` in `index.html`, after `cordova.js`/`phonegap.js`. Mind the path:
 ```html
